@@ -22,3 +22,5 @@ https://acadpubl.eu/hub/2018-118-24/3/577.pdf
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3861851
 
 ## Unfinished Reading
+### Automatic question generation and answer assessment for subjective examination
+https://www.sciencedirect.com/science/article/pii/S1389041721000826
