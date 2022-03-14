@@ -33,3 +33,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6004365
 
 ### An Adaptive Approach for Subjective Answer Evaluation
 http://www.viva-technology.org/New/IJRI/2019/10.pdf
+
+### Computerized Evaluation of Subjective Answers Using Hybrid Technique
+https://www.researchgate.net/profile/Himani_Mittal4/publication/288761209_Computerized_Evaluation_of_Subjective_Answers_Using_Hybrid_Technique/links/5d5c06d092851c37636c151d/Computerized-Evaluation-of-Subjective-Answers-Using-Hybrid-Technique.pdf
+
