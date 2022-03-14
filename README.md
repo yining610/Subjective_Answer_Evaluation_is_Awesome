@@ -27,3 +27,9 @@ https://www.sciencedirect.com/science/article/pii/S1389041721000826
 
 ### Subjective Answer Evaluation System
 https://ijesc.org/upload/01ee35e29dfd21c4647d9820cc33ba2a.Subjective%20Answer%20Evaluation%20System.pdf
+
+### Auto-Assessor: Computerized Assessment System for Marking Student's Short-Answers Automatically 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6004365
+
+### An Adaptive Approach for Subjective Answer Evaluation
+http://www.viva-technology.org/New/IJRI/2019/10.pdf
