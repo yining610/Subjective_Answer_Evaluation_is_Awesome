@@ -26,7 +26,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3861851
 https://www.sciencedirect.com/science/article/pii/S1389041721000826
 
 ### Subjective Answer Evaluation System
-https://ijesc.org/upload/01ee35e29dfd21c4647d9820cc33ba2a.Subjective%20Answer%20Evaluation%20System.pdf
+https://d1wqtxts1xzle7.cloudfront.net/73054812/IJCST_V9I5P10-with-cover-page-v2.pdf?Expires=1647235603&Signature=NyFnCeSStFv5NP5ZBjbaRi~Ix2zBz~VjR7jekAeCDcnqxzzZBcekaWvdOoUwLyMXpPXMyfsVbPdPw6sSXQykjBhQgiZ7Rz3Lkb0~3~KnOEPF0iC~DzjanDh3GbtqqcBWs-jbwn0b2EemIPr5fsCH6DxUl4WFBDKqSDc5f9uqHXbyEfKhcBZ~-0fwobtd2o2UvOQBG6UxvfDzaLGNKataI9aImSMVjIWES3-ZJOAhSx4Uza2DkSQCJV1cm1ks5CB3S23HHAQniLKvV4Nx1IryTOCKQg5GB0cmbjIx0oDZVhUrRWg-EPsxZyxQA2aZPti925kvncd66p3dUL2KD2EeAg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 ### Auto-Assessor: Computerized Assessment System for Marking Student's Short-Answers Automatically 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6004365
