@@ -24,3 +24,6 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3861851
 ## Unfinished Reading
 ### Automatic question generation and answer assessment for subjective examination
 https://www.sciencedirect.com/science/article/pii/S1389041721000826
+
+### Subjective Answer Evaluation System
+https://ijesc.org/upload/01ee35e29dfd21c4647d9820cc33ba2a.Subjective%20Answer%20Evaluation%20System.pdf
