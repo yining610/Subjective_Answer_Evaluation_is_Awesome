@@ -37,3 +37,5 @@ http://www.viva-technology.org/New/IJRI/2019/10.pdf
 ### Computerized Evaluation of Subjective Answers Using Hybrid Technique [2016]
 https://www.researchgate.net/profile/Himani_Mittal4/publication/288761209_Computerized_Evaluation_of_Subjective_Answers_Using_Hybrid_Technique/links/5d5c06d092851c37636c151d/Computerized-Evaluation-of-Subjective-Answers-Using-Hybrid-Technique.pdf
 
+### Deep learning for short answer scoring [2019]
+https://www.researchgate.net/publication/333447428_Deep_learning_for_short_answer_scoring
