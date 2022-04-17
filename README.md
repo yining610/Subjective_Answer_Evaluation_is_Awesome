@@ -39,3 +39,9 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6004365
 
 ### Computerized Evaluation of Subjective Answers Using Hybrid Technique [2016]
 https://www.researchgate.net/profile/Himani_Mittal4/publication/288761209_Computerized_Evaluation_of_Subjective_Answers_Using_Hybrid_Technique/links/5d5c06d092851c37636c151d/Computerized-Evaluation-of-Subjective-Answers-Using-Hybrid-Technique.pdf
+
+### Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks
+https://arxiv.org/pdf/2009.08445v2.pdf
+
+### Few-shot classification in Named Entity Recognition Task
+https://arxiv.org/pdf/1812.06158v1.pdf
