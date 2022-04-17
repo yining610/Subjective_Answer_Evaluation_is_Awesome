@@ -45,3 +45,6 @@ https://arxiv.org/pdf/2009.08445v2.pdf
 
 ### Few-shot classification in Named Entity Recognition Task
 https://arxiv.org/pdf/1812.06158v1.pdf
+
+### Diverse Few-Shot Text Classification with Multiple Metrics
+http://aclanthology.lst.uni-saarland.de/N18-1109.pdf
