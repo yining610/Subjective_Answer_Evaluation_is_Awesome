@@ -27,6 +27,12 @@ https://www.researchgate.net/publication/333447428_Deep_learning_for_short_answe
 ### An Adaptive Approach for Subjective Answer Evaluation [2019]
 http://www.viva-technology.org/New/IJRI/2019/10.pdf
 
+### Prototypical Networks for Few-shot Learning
+https://www.cs.toronto.edu/~zemel/documents/prototypical_networks_nips_2017.pdf
+
+### Few-shot relation classification by context attention-based prototypical networkds with BERT
+https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-020-01720-6.pdf
+
 ## Unfinished Reading
 ### Automatic question generation and answer assessment for subjective examination [2022]
 https://www.sciencedirect.com/science/article/pii/S1389041721000826
