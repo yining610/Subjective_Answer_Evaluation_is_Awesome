@@ -33,6 +33,9 @@ https://www.cs.toronto.edu/~zemel/documents/prototypical_networks_nips_2017.pdf
 ### Few-shot relation classification by context attention-based prototypical networkds with BERT
 https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-020-01720-6.pdf
 
+### Diverse Few-Shot Text Classification with Multiple Metrics
+http://aclanthology.lst.uni-saarland.de/N18-1109.pdf
+
 ## Unfinished Reading
 ### Automatic question generation and answer assessment for subjective examination [2022]
 https://www.sciencedirect.com/science/article/pii/S1389041721000826
@@ -51,6 +54,3 @@ https://arxiv.org/pdf/2009.08445v2.pdf
 
 ### Few-shot classification in Named Entity Recognition Task
 https://arxiv.org/pdf/1812.06158v1.pdf
-
-### Diverse Few-Shot Text Classification with Multiple Metrics
-http://aclanthology.lst.uni-saarland.de/N18-1109.pdf
