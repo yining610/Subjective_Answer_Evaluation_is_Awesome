@@ -57,3 +57,12 @@ https://arxiv.org/pdf/2009.08445v2.pdf
 
 ### Few-shot classification in Named Entity Recognition Task
 https://arxiv.org/pdf/1812.06158v1.pdf
+
+## ContrastNet: A Contrastive Learning Framework for Few-shot Text Classification
+https://www.aaai.org/AAAI22Papers/AAAI-10254.ChenJ.pdf
+
+## Label Hallucination for Few-Shot Classification
+https://www.aaai.org/AAAI22Papers/AAAI-12613.JianY.pdf
+
+## ALP: Data Augmentation using Lexicalized PCFGs for Few-Shot Text Classification
+https://www.aaai.org/AAAI22Papers/AAAI-8541.KimH.pdf
