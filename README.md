@@ -39,8 +39,11 @@ http://aclanthology.lst.uni-saarland.de/N18-1109.pdf
 ### Meta-learning from Tasks with Heterogeneous Attribute Spaces [2020]
 https://proceedings.neurips.cc/paper/2020/file/438124b4c06f3a5caffab2c07863b617-Paper.pdf
 
-## ContrastNet: A Contrastive Learning Framework for Few-shot Text Classification
+### ContrastNet: A Contrastive Learning Framework for Few-shot Text Classification
 https://www.aaai.org/AAAI22Papers/AAAI-10254.ChenJ.pdf
+
+### ProtAugment: Unsupervised diverse short-texts paraphrasing for intent detection meta-learning
+https://arxiv.org/pdf/2105.12995.pdf
 
 ## Unfinished Reading
 ### Automatic question generation and answer assessment for subjective examination [2022]
